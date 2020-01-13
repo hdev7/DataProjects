@@ -4,9 +4,10 @@ This is a repository of my Data Science portfolio. Click on the project Title to
 ## Projects
 
 **Topic**:  Deep Learning and Natural Language Processing  
+&nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; <img src="https://github.com/hdev7/RecipeLive/blob/master/docs/project_demo.gif" alt="RL" title="RecipeLive App" width="240" height="360" align="right"/>
 
 1. Title: [_RecipeLive: A recipe recommendation app_](https://github.com/jhonsen/Produce2Recipe)
-&nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; <img src="https://github.com/hdev7/RecipeLive/blob/master/docs/project_demo.gif" alt="RL" title="RecipeLive App" width="240" height="480" align="right"/>
+
     - Summary : Building a _phone app_ with image recognition and natural language processing  
     - Category: Image Classification, Topic Modeling
 
