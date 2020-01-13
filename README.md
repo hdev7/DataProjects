@@ -6,9 +6,10 @@ This is a repository of my Data Science portfolio. Click on the project Title to
 **Topic**:  Deep Learning and Natural Language Processing  
 
 1. Title: [_RecipeLive: A recipe recommendation app_](https://github.com/jhonsen/Produce2Recipe)
+&nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; <img src="https://github.com/hdev7/RecipeLive/blob/master/docs/project_demo.gif" alt="RL" title="RecipeLive App" width="240" height="480" align="right"/>
     - Summary : Building a _phone app_ with image recognition and natural language processing  
     - Category: Image Classification, Topic Modeling
-&nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; <img src="https://github.com/hdev7/RecipeLive/blob/master/docs/project_demo.gif" alt="RL" title="RecipeLive App" width="240" height="480" align="right"/>
+
 
 >>**Keywords**: data engineering, convolutional neural network (CNN), NLP, image classification, topic modeling<br />
 >>**Tools**: `BeautifulSoup`, `google-api`, `nltk`, `nmf`, `keras`, `Flask`, `ngrok`, `windows script`
