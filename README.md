@@ -14,3 +14,15 @@ This is a repository of my Data Science portfolio. Click on the project Title to
 
 >>**Keywords**: data engineering, convolutional neural network (CNN), NLP, image classification, topic modeling<br />
 >>**Tools**: `BeautifulSoup`, `google-api`, `nltk`, `nmf`, `keras`, `Flask`, `ngrok`, `windows script`
+
+2. Title: [Time series forecasting of future traffice on wikipedia pages](https://github.com/hdev7/Forecast-future-traffic-on-wikipedia-pages)
+
+    - Summary : Build a forecasting model using time series analysis model (AutoRegressive Integrated Moving Average (ARIMA)) and further improve the model forecasting power by using fully connected Long Short Term Memory Models. 
+    - Category: Times Series Forecasting
+
+>>**Keywords**: Smoothing and seasonality decomposition, Dickey-Fuller Test<br />
+>>**Tools**: `ARIMA`, `pandas`, `statsmodels`, `TensorFlow`, `keras`
+
+3. Title: [Store segmentation - Unsupervised learning](https://github.com/hdev7/Store-clustering)
+    
+    
