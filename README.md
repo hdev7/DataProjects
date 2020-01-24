@@ -34,7 +34,7 @@ Title: [_Time series forecasting of future traffice on wikipedia pages_](https:/
 **Topic**:  Unsupervised learning, Clustering, Principal Component Analysis
 
 
-Title: [Store segmentation](https://github.com/hdev7/Store-clustering)
+Title: [_Store segmentation_](https://github.com/hdev7/Store-clustering)
 
     - Summary : This project considers the purchase data from different stores on certain type of products and identifies store clusters. 
     - Category: Unsupervised learning
@@ -48,7 +48,7 @@ Title: [Store segmentation](https://github.com/hdev7/Store-clustering)
 **Topic**:  Natural Language Processing, Topic Modeling
 
 
-Title: [News Recommendation System](https://github.com/hdev7/NLP---Topic-Modeling-and-Recommendation-system)
+Title: [_News Recommendation System_](https://github.com/hdev7/NLP---Topic-Modeling-and-Recommendation-system)
 
     - Summary : This is a news recommendation system based on the articles that are read by the user and topic modeling on the corpus of articles.
     - Category: NLP, Topic Modeling
