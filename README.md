@@ -1,4 +1,4 @@
-# DataScienceProjects
+# DataProjects
 This is a repository of my Data Science portfolio. Click on the project Title to access each repo.
 
 ## Projects
